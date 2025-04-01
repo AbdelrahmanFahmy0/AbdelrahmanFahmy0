@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Automation Testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ashraaf7?tab=repositories](https://github.com/AbdelrahmanFahmy0?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/AbdelrahmanFahmy0?tab=repositories](https://github.com/AbdelrahmanFahmy0?tab=repositories)
 
 - 📫 How to reach me **abdoofahmy222@gmail.com**
 
