@@ -39,7 +39,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
   <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/rest-assured/rest-assured-icon.svg" alt="rest-assured" width="40" height="40"/>
+    <img src="https://rest-assured.io/img/logo-transparent.png" alt="rest-assured" width="40" height="40"/>
   </a> 
 
   <!-- Continuous Integration/Deployment -->
