@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Automation Testing**
 
+- 🔍 Experienced in testing **Web, Mobile, API, Performance, and Automation**
+
 - 👨‍💻 All of my projects are available at [https://github.com/AbdelrahmanFahmy0?tab=repositories](https://github.com/AbdelrahmanFahmy0?tab=repositories)
 
 - 📫 How to reach me **abdoofahmy222@gmail.com**
