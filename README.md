@@ -57,3 +57,7 @@
     <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> 
   </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanFahmy0&show_icons=true&locale=en&layout=compact" alt="ashraaf7"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanFahmy0&show_icons=true&locale=en" alt="ashraaf7" /></p>
