@@ -65,9 +65,13 @@
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> 
   </a>
+
+  <!-- k6 -->
+  <a href="https://k6.io/docs/" target="_blank" rel="noreferrer">
+  <img src="https://logo.svgcdn.com/devicon/k6-original.png" alt="k6" width="40" height="40"/>
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanfahmy0&show_icons=true&locale=en&layout=compact" alt="abdelrahmanfahmy0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanfahmy0&show_icons=true&locale=en" alt="abdelrahmanfahmy0" /></p>
-
